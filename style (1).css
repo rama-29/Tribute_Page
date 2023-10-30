@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 20%;
+    margin-left: 40%;
+}
+
+p {
+    margin-bottom: 10px;
+    margin-left: 20%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    margin-left: 25%;
+}
